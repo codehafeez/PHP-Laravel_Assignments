@@ -1,0 +1,7 @@
+Create database db
+
+
+RUN cmd commands
+1) php artisan migrate
+2) php artisan serve
+

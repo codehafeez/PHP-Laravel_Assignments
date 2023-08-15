@@ -1,0 +1,23 @@
+CRUD Web Application
+https://www.itsolutionstuff.com/post/laravel-6-crud-application-tutorialexample.html
+
+
+
+
+
+============================================
+How to run this project:
+============================================
+
+Step:1
+Create Database db
+
+
+Step:2
+-------------------------------
+cmd run these command
+-------------------------------
+1) php artisan migrate
+2) php artisan serve
+-------------------------------
+

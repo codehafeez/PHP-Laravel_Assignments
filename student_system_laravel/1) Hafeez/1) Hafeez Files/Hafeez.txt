@@ -1,0 +1,41 @@
+https://www.youtube.com/watch?v=yhTGHGzSG9c&list=PLs20WIPqzFC5XsOyzwfFLwlebdtPPt63N&index=4
+
+
+
+
+===================================================================
+Create App
+===================================================================
+composer create-project laravel/laravel student_system_laravel
+===================================================================
+
+
+
+
+========================================================================================
+Create Controller
+========================================================================================
+php artisan make:controller AdminController
+php artisan make:controller StudentController --resource // auto create function CRUD
+========================================================================================
+
+
+
+
+===================================================================
+Create Model
+===================================================================
+php artisan make:model AdminModel --migration // create table using migration
+php artisan migrate
+
+php artisan make:model StudentModel --migration // create table using migration
+php artisan migrate
+===================================================================
+
+
+
+create folder -> uploads --- for update image
+
+
+
+<link href="{{ asset('theme_assets/vendors/bootstrap/dist/css/bootstrap.min.css') }}" rel="stylesheet">

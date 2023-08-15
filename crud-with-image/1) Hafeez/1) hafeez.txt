@@ -1,0 +1,14 @@
+https://www.webslesson.info/2019/03/step-by-step-crud-operation-in-laravel-58-with-file-upload.html
+
+
+
+create database testing_db
+
+
+-------------------------------
+cmd run these commands
+-------------------------------
+1) php artisan migrate
+2) php artisan serve
+-------------------------------
+

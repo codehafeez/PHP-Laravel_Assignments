@@ -1,0 +1,15 @@
+composer create-project laravel/laravel HafeezEx dev-develop
+php artisan serve
+
+php artisan make:controller PagesController
+
+
+
+-------------------------------------------
+Create Page 
+Pass value from controller to view
+Call Pages
+-------------------------------------------
+
+
+

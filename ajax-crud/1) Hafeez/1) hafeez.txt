@@ -1,0 +1,8 @@
+How to run =>
+
+create datatbase db
+
+run these command in CMD
+1) php artisan migrate
+2) php artisan serve
+
